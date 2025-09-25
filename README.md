@@ -7,15 +7,19 @@ Apaixonado por desenvolvimento backend e sempre em busca de evoluir minhas habil
 
 ## 🚀 Tecnologias e Ferramentas
 - **Linguagens & Frameworks**: C# (.NET 8), ASP.NET MVC, Web API
-- **Banco de Dados & ORM**: Entity Framework, Dapper, ADO.NET
+- **Banco de Dados & ORM**: SqlServer, MySql, Postgres, Entity Framework, Dapper, ADO.NET
 - **Arquiteturas**: Modelo em 3 camadas, DDD
-- **Ferramentas**: Docker, New Relic
-- **Outros**: Redis, Git, GitHub
+- **Ferramentas**: Docker, Selenium, New Relic, Redis
+- **Outros**: Git, GitHub, Azure
 
 ---
 
 ## 📂 Projetos em destaque
-🔹 [Meu Projeto 1](https://github.com/seuusuario/projeto1) – Descrição rápida do que faz  
+🔹 [Duobingo](https://github.com/joao-gabriel-gustavo/Duobingo)
+ **Explicação do projeto:**
+ Esse projeto foi desenvolvido durante a academia do programador 2025, foi realizado em aspnet mvc e se trata de um gerador de provas, Onde voce pode criar materias, Disciplinas, Questoes e depois realizar a criação de uma prova com as questoes, possue gerador de questoes com IA e a opção de gerar prova em pdf 
+
+
 🔹 [Meu Projeto 2](https://github.com/seuusuario/projeto2) – Descrição rápida do que faz  
 🔹 [Meu Projeto 3](https://github.com/seuusuario/projeto3) – Descrição rápida do que faz  
 
