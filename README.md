@@ -8,7 +8,7 @@ Sou entusiasmado  por desenvolvimento backend e frontend, sempre buscando evolui
 ## 🚀 Tecnologias e Ferramentas
 
 ### 🔹 Back-end
-- **Linguagens & Frameworks**: C# (.NET 8), ASP.NET MVC, Web API, Node.js  
+- **Linguagens & Frameworks**: C# (.NET 8), ASP.NET MVC, Web API, Node.js, Angular
 - **Banco de Dados & ORM**: SQL Server, MySQL, PostgreSQL, Entity Framework, Dapper, ADO.NET  
 - **Arquiteturas**: Modelo em 3 camadas, DDD  
 - **Bibliotecas**: Entity Framework, Serilog, Testcontainers, FluentResults, FluentValidation  
@@ -16,7 +16,7 @@ Sou entusiasmado  por desenvolvimento backend e frontend, sempre buscando evolui
 
 ### 🔹 Front-end
 - **Linguagens & Frameworks**: TypeScript, Angular  
-- **Ferramentas**: HTML5, CSS3, Bootstrap  
+- **Ferramentas**: HTML5, CSS, Bootstrap  
 
 ### 🔹 Testes
 - MSTest  
@@ -27,8 +27,8 @@ Sou entusiasmado  por desenvolvimento backend e frontend, sempre buscando evolui
 
 ### 🔹 Outros / DevOps
 - Git & GitHub  
-- Azure (Cloud & DevOps)  
-- **CI/CD**: GitHub Actions / Workflows, Azure Pipelines  
+- Azure 
+- **CI/CD**: GitHub Actions / Workflows
 
 ---
 
