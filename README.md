@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Gabriel!
 
-<!--
-**gabrielvsantoss/gabrielvsantoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tenho **18 anos**, sou estudante de **Sistemas de Informação** e atualmente faço parte do curso **Academia do Programador 2025**.  
+Apaixonado por desenvolvimento backend e sempre em busca de evoluir minhas habilidades.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias e Ferramentas
+- **Linguagens & Frameworks**: C# (.NET 8), ASP.NET MVC, Web API
+- **Banco de Dados & ORM**: Entity Framework, Dapper, ADO.NET
+- **Arquiteturas**: Modelo em 3 camadas, DDD
+- **Ferramentas**: Docker, New Relic
+- **Outros**: Redis, Git, GitHub
+
+---
+
+## 📂 Projetos em destaque
+🔹 [Meu Projeto 1](https://github.com/seuusuario/projeto1) – Descrição rápida do que faz  
+🔹 [Meu Projeto 2](https://github.com/seuusuario/projeto2) – Descrição rápida do que faz  
+🔹 [Meu Projeto 3](https://github.com/seuusuario/projeto3) – Descrição rápida do que faz  
+
+*(Você pode editar essa lista com seus projetos reais)*
+
+---
+
+## 📊 Estatísticas do GitHub
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=radical)
+
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=radical)
+
+---
+
+## 🌐 Onde me encontrar
+- 💼 [LinkedIn](https://www.linkedin.com)  
+- ✉️ Email: seuemail@email.com  
