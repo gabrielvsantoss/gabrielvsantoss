@@ -26,7 +26,7 @@ Apaixonado por desenvolvimento backend e sempre em busca de evoluir minhas habil
 ## 📊 Estatísticas do GitHub
 ![Estatísticas](https://github-readme-stats.vercel.app/api?username=gabrielvsantoss&show_icons=true&theme=radical)
 
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=radical)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvsantoss&layout=compact&theme=radical)
 
 ---
 
