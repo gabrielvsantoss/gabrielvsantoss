@@ -19,13 +19,32 @@ Apaixonado por desenvolvimento backend e sempre em busca de evoluir minhas habil
  **Explicação do projeto:**
  Esse projeto foi desenvolvido durante a academia do programador 2025, foi realizado em aspnet mvc e se trata de um gerador de provas, Onde voce pode criar materias, Disciplinas, Questoes e depois realizar a criação de uma prova com as questoes, possue gerador de questoes com IA e a opção de gerar prova em pdf 
 
+🔹 [Controle de Estacionamento](https://github.com/KauannGabriell/ControleDeEstacionamento)  
+**Descrição do projeto:**  
+Sistema de **gestão de estacionamento para hotel**, desenvolvido em **.NET Web API** com **Swagger** para documentação.  
+O projeto foca em oferecer uma solução completa para controle de entrada, saída e faturamento de veículos.  
 
-🔹 [Meu Projeto 2](https://github.com/seuusuario/projeto2) – Descrição rápida do que faz  
-🔹 [Meu Projeto 3](https://github.com/seuusuario/projeto3) – Descrição rápida do que faz  
+### Principais funcionalidades:
+- **Cadastro de veículos** e **hóspedes** (opcional);  
+- **Check-in automático**: ao registrar um veículo, é gerado um **ticket** de entrada;  
+- **Checkout flexível**: pode ser realizado pela **placa do veículo**, pelo **ticket** ou pelo próprio **check-in**;  
+- **Faturamento automático**: ao realizar o checkout, o sistema gera uma **fatura**;  
+- **Gestão de pagamentos**: opção de quitar faturas diretamente pelo sistema;  
+- **Módulo de faturamento**: permite visualizar todas as faturas emitidas.  
 
-*(Você pode editar essa lista com seus projetos reais)*
+Esse projeto demonstra experiência com **APIs REST**, **Swagger**, **boas práticas de arquitetura backend** e o desenvolvimento de fluxos de negócio automatizados.
 
----
+🔹 [Controle de Cinema 2025](https://github.com/KauannGabriell/controle-de-cinema-2025)  
+**Descrição do projeto:**  
+Projeto em equipe desenvolvido durante a **Academia do Programador 2025**, onde recebemos um sistema pronto de **controle de cinema** e tivemos como desafio implementar uma **cobertura robusta de testes automatizados**.  
+
+### Principais características:
+- Implementação de **mais de 100 testes automatizados**;  
+- Criação de testes de **unidade**, **infraestrutura** e **interface**;  
+- Utilização de frameworks como **Selenium**, **Moq** e **NBuilder**;  
+- Estrutura de testes construída com **MSTest** no Visual Studio.  
+
+Esse projeto demonstra experiência prática com **QA (Quality Assurance)**, aplicação de **boas práticas de testes** e integração de múltiplos frameworks para garantir **confiabilidade e qualidade do software**.
 
 ## 📊 Estatísticas do GitHub
 ![Estatísticas](https://github-readme-stats.vercel.app/api?username=gabrielvsantoss&show_icons=true&theme=radical)
