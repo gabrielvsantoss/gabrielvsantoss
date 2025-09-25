@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Gabriel!
 
 Tenho **18 anos**, sou estudante de **Sistemas de Informação** e atualmente faço parte da **Academia do Programador 2025**.  
-Sou apaixonado por desenvolvimento backend e frontend, sempre buscando evoluir minhas habilidades e participar de projetos desafiadores.  
+Sou entusiasmado  por desenvolvimento backend e frontend, sempre buscando evoluir minhas habilidades e participar de projetos desafiadores.  
 
 ---
 
