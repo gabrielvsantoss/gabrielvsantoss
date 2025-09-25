@@ -83,4 +83,4 @@ Projeto em equipe desenvolvido durante a **Academia do Programador 2025**, onde 
 ## 🌐 Contato
 - 📧 **Email:** gabrielvelhosantos@gmail.com  
 - 📱 **Telefone/WhatsApp:** (49) 98845-1630  
-- 💼 **LinkedIn:** [Gabriel Velho dos Santos](https://www.linkedin.com/in/gabriel-velho-dos-santos-aba43536)  
+- 💼 **LinkedIn:** [Gabriel Velho dos Santos](https://meet.google.com/nqp-fdeg-qgp?pli=1&authuser=1)  
